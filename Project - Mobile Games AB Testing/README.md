@@ -13,5 +13,5 @@ The variables are:
 * retention_7 - did the player come back and play 7 days after installing?
 
 ## Result
-1-day and 7-day retention is higher when the gate is at level 30 
-We should not move the gate from level 30 to level 40
+* 1-day and 7-day retention is higher when the gate is at level 30 
+* We should not move the gate from level 30 to level 40
