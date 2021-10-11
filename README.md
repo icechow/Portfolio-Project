@@ -3,7 +3,7 @@ This repository is for the projects I've done on the different courses/assignmen
 
 Those program prepares me for a career as a Data Analyst / Analytics professional by helping me learn:
 
- ** Exploratory Data Analysis (EDA)  
+  -Exploratory Data Analysis (EDA)  
 
   -Data Wrangling
   
