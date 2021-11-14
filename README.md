@@ -5,9 +5,9 @@ I am passionate about analysis and working with big data. My experience is in co
 
 
 Technical Skills:
-Databases:	MySQL, SQL, Oracle
-Visualization:    Tableau, Power BI
-Programming Languages:  C#, PHP, HTML, JAVA, JavaScript, CSS, XML, Python
+-Databases:	MySQL, SQL, Oracle
+-Visualization:    Tableau, Power BI
+-Programming Languages:  C#, PHP, HTML, JAVA, JavaScript, CSS, XML, Python
 
 # Data Analyst Portfolio
 Those program prepares me for a career as a Data Analyst / Analytics professional by helping me learn:
@@ -39,3 +39,5 @@ Those program prepares me for a career as a Data Analyst / Analytics professiona
   -SQL
   
   -Tableau
+  
+  -Power BI
