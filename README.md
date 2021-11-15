@@ -43,3 +43,12 @@ Those program prepares me for a career as a Data Analyst / Analytics professiona
   -Tableau
   
   -Power BI
+  
+  # Certificates
+  
+  -IBM Data Analyst Certificate (Coursera)
+  
+  -Learning Python for Data Analysis and Visualization (Udemy)
+  
+  -2021 Complete Python Bootcamp from Zero to Hero in Python (Udemy)
+  
