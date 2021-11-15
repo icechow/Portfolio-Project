@@ -52,3 +52,7 @@ Those program prepares me for a career as a Data Analyst / Analytics professiona
   
   -2021 Complete Python Bootcamp from Zero to Hero in Python (Udemy)
   
+   # Contact
+   Email: icecchow@gmail.com
+   linkedin: https://www.linkedin.com/in/lai-tung-chow-ice-8902b511a/
+  
